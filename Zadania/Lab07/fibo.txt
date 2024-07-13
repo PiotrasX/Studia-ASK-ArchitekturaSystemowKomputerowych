@@ -1,0 +1,10 @@
+0   1   2   3   4   5   6    indeksy
+1   1   2   3   5   8   13   wartoœci
+
+f(0) = 1
+f(1) = 1
+f(n) = f(n-1) + f(n-2)
+
+Pierwszy i drugi wyraz ci¹gu Fibonacciego
+przyjmuje wartoœæ 1, a ka¿dy nastêpny wyraz
+jest sum¹ dwóch poprzednich.
