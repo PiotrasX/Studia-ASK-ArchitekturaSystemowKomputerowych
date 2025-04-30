@@ -37,13 +37,14 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Archit
 - Programowanie dynamiczne i rekurencyjne:  
   - Obliczanie ciągu Fibonacciego i silni.  
   - Korzystanie z ramek trójzębnych i dwuzębnych oraz metody dziel i zwyciężaj.  
-- Operacje arytmetyczne i logiczne:
-  - Mnożenie i dzielenie ze znakiem i bez znaku.
-  - Operacje na bitach, konwersje między systemami liczbowymi.
-- FPU – koprocesor arytmetyczny:
-  - Logarytmy, wyrażenia arytmetyczne, liczby rzeczywiste.
-- Przetwarzanie danych wejściowych i interakcji:
-  - Odwracanie napisów, dodawanie pisemne, przetwarzanie danych z konsoli.
+- Operacje arytmetyczne i logiczne:  
+  - Mnożenie i dzielenie ze znakiem i bez znaku.  
+  - Operacje na bitach.  
+  - Konwersje między systemami liczbowymi.  
+- FPU – koprocesor arytmetyczny.  
+- Przetwarzanie danych wejściowych:
+  - Odwracanie napisów.  
+  - Dodawanie pisemne.  
 
 ---
 
