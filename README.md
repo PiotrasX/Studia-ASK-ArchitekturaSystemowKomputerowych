@@ -8,22 +8,42 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Archit
 
 ## 📁 Struktura repozytorium
 
-- `Zadania` – Zadania realizowane na zajęciach i indywidualnie poza nimi.  
+- `Zadania` – Zadania realizowane podczas zajęć oraz samodzielnie, obejmujące zagadnienia związane z architekturą komputerów, reprezentacją danych, zarządzaniem pamięcią, programowaniem w języku asemblera i języku C.  
 
 ---
 
 ## ⚙️ Wykorzystane technologie
 
-- `Język programowania:` Asembler, C.  
-- `IDE:` ConTEXT, ???.  
+- `Język programowania:` Asembler (NASM), C.  
+- `IDE:` ConTEXT, Embarcadero Dev-C++.  
 
 ---
 
 ## 🔍 Zakres tematyczny
 
-- ???:  
-  - ???.  
-  - ???.  
+- Reprezentacja danych i rozmiary typów w języku C:
+  - Rozmiar i zakres typów danych.
+  - Adresowanie pamięci.
+  - Architektury 32/64-bitowe.
+- Endianness i reprezentacje bajtowe:
+  - Big-endian vs little-endian.
+  - Konwersje między systemami liczbowymi.
+- Zarządzanie pamięcią:
+  - Stos, sterta, sekcja danych (inicjalizowana i nieinicjalizowana).
+- Programowanie w asemblerze:
+  - Instrukcje: mov, add, sub, mul, div, xchg, xadd, loop, call, itp.
+  - Wykorzystanie rejestrów i flag.
+  - Wywoływanie funkcji z bibliotek (np.: printf, scanf).
+- Programowanie dynamiczne i rekurencyjne:
+  - Algorytmy obliczające ciąg Fibonacciego i silnię.
+  - Realizacja przy użyciu ramek trójzębnych, dwuzębnych i metodą dziel i zwyciężaj.
+-Operacje arytmetyczne i logiczne:
+  - Mnożenie i dzielenie ze znakiem i bez znaku.
+  - Operacje na bitach, konwersje między systemami liczbowymi.
+- FPU – koprocesor arytmetyczny:
+  - Logarytmy, wyrażenia arytmetyczne, liczby rzeczywiste.
+- Przetwarzanie danych wejściowych i interakcji:
+  - Odwracanie napisów, dodawanie pisemne, przetwarzanie danych z konsoli.
 
 ---
 
