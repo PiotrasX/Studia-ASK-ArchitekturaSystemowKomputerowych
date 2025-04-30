@@ -21,23 +21,23 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Archit
 
 ## 🔍 Zakres tematyczny
 
-- Reprezentacja danych i rozmiary typów w języku C:
-  - Rozmiar i zakres typów danych.
-  - Adresowanie pamięci.
-  - Architektury 32/64-bitowe.
-- Endianness i reprezentacje bajtowe:
-  - Big-endian vs little-endian.
-  - Konwersje między systemami liczbowymi.
-- Zarządzanie pamięcią:
-  - Stos, sterta, sekcja danych (inicjalizowana i nieinicjalizowana).
-- Programowanie w asemblerze:
-  - Instrukcje: mov, add, sub, mul, div, xchg, xadd, loop, call, itp.
-  - Wykorzystanie rejestrów i flag.
-  - Wywoływanie funkcji z bibliotek (np.: printf, scanf).
-- Programowanie dynamiczne i rekurencyjne:
-  - Algorytmy obliczające ciąg Fibonacciego i silnię.
-  - Realizacja przy użyciu ramek trójzębnych, dwuzębnych i metodą dziel i zwyciężaj.
--Operacje arytmetyczne i logiczne:
+- Reprezentacja danych i rozmiary typów w języku C:  
+  - Rozmiar i zakres typów danych.  
+  - Adresowanie pamięci.  
+  - Architektury 32/64-bitowe.  
+- Endianness i reprezentacje bajtowe:  
+  - Big-endian vs little-endian.  
+  - Konwersje między systemami liczbowymi.  
+- Zarządzanie pamięcią:  
+  - Stos, sterta, sekcja danych (inicjalizowana i nieinicjalizowana).  
+- Programowanie w asemblerze:  
+  - Wykonywanie instrukcji: mov, add, sub, mul, div, xchg, xadd, loop, call, itp.  
+  - Wykorzystanie rejestrów i flag.  
+  - Wywoływanie funkcji z bibliotek (np.: printf, scanf).  
+- Programowanie dynamiczne i rekurencyjne:  
+  - Obliczanie ciągu Fibonacciego i silni.  
+  - Korzystanie z ramek trójzębnych i dwuzębnych oraz metody dziel i zwyciężaj.  
+- Operacje arytmetyczne i logiczne:
   - Mnożenie i dzielenie ze znakiem i bez znaku.
   - Operacje na bitach, konwersje między systemami liczbowymi.
 - FPU – koprocesor arytmetyczny:
