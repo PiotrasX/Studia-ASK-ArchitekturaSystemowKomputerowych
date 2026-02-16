@@ -32,7 +32,7 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Archit
 - Zarządzanie pamięcią:  
   - Stos, sterta, sekcja danych (inicjalizowana i nieinicjalizowana).  
 - Programowanie w asemblerze:  
-  - Wykonywanie instrukcji: mov, add, sub, mul, div, xchg, xadd, loop, call, itp.  
+  - Wykonywanie instrukcji: mov, add, sub, mul, div, xchg, xadd, loop, call.  
   - Wykorzystanie rejestrów i flag.  
   - Wywoływanie funkcji z bibliotek (np.: printf, scanf).  
 - Programowanie dynamiczne i rekurencyjne:  
