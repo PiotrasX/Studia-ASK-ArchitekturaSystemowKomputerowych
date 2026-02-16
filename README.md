@@ -8,7 +8,7 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Archit
 
 ## 📁 Struktura repozytorium
 
-- `Zadania/LabX` – Zadania realizowane podczas zajęć oraz samodzielnie. Obejmują zagadnienia związane z reprezentacją danych w pamięci, architekturą 32 i 64 bitową, organizacją stosu, sterty oraz sekcji danych, konwersjami systemów liczbowych oraz programowaniem w języku C i asemblerze (NASM). Zadania zawierają implementacje operacji arytmetycznych, logicznych oraz obsługę rejestrów i wywołań funkcji.  
+- `Zadania/LabX` – Zadania realizowane podczas zajęć oraz samodzielnie. Obejmują zagadnienia związane z reprezentacją danych w pamięci, architekturą 32-bitową i 64-bitową, organizacją stosu, sterty oraz sekcji danych, konwersjami systemów liczbowych oraz programowaniem w języku C i asemblerze (NASM). Zadania zawierają implementacje operacji arytmetycznych, logicznych oraz obsługę rejestrów i wywołań funkcji.  
 - `Zadania/Projekt` – Projekt końcowy polegający na implementacji programu, wyliczającego n-ty wyraz ciągu zadanego rekurencyjnie metodą programowania dynamicznego z wykorzystaniem ramki dwuzębnej i trójzębnej. Projekt obejmuje również testy porównawcze czasu wykonania funkcji napisanej w asemblerze oraz analogicznej funkcji w języku C.  
 
 ---
