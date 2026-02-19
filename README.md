@@ -1,4 +1,4 @@
-# 📘 Studia - ASK - Architektura Systemów Komputerowych
+# 📘 Studia – ASK – Architektura Systemów Komputerowych
 
 Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Architektura Systemów Komputerowych**, realizowanego na Uniwersytecie Rzeszowskim podczas czwartego (4) semestru studiów inżynierskich na kierunku Informatyka. 
 
